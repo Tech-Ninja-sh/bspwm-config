@@ -1,0 +1,164 @@
+14:10:10 [info] [LOG SESSION] ---------- START ----------
+14:10:10 [info] [PluginFactory] loading plugins
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libnullout.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libhttpdatastream.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libffmpegdecoder.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libmpris.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libpulseout.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libsupereqdsp.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libserver.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libtaglibreader.so
+14:10:10 [info] [PluginFactory] loaded: /usr/lib/musikcube/plugins/libstockencoders.so
+14:10:10 [info] [Indexer] scanning /home/muslimtechninja/Music/
+14:10:10 [info] [Indexer] scan completed successfully
+14:10:10 [info] [Indexer] cleanup 1/2
+14:10:10 [info] [Indexer] cleanup 2/2
+14:10:10 [info] [Indexer] optimizing
+14:10:10 [info] [Indexer] done!
+14:10:10 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+14:10:10 [info] [LocalLibrary] query 'CategoryListQuery' running
+14:10:10 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+14:10:11 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+14:10:11 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+14:10:11 [info] [LocalLibrary] query 'CategoryListQuery' running
+14:10:11 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+14:10:11 [info] [GaplessTransport] starting track at /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:10:11 [info] [Player] new instance created
+14:10:11 [info] [GaplessTransport] stop
+14:10:11 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:10:11 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:10:11 [info] [ffmpegdecoder] parsing data stream...
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+14:10:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+14:10:11 [info] [ffmpegdecoder] found audio stream!
+14:10:11 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:10:11 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+14:10:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+14:10:13 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+14:10:13 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+14:10:13 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+14:10:13 [info] [GaplessTransport] starting track at /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:10:13 [info] [Player] new instance created
+14:10:13 [info] [GaplessTransport] stop
+14:10:13 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:10:13 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:10:13 [info] [ffmpegdecoder] parsing data stream...
+14:10:13 [info] [ffmpegdecoder] found audio stream!
+14:10:13 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:10:13 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:10:14 [info] [Player] new instance created
+14:10:14 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:10:14 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:10:14 [info] [ffmpegdecoder] parsing data stream...
+14:10:14 [info] [ffmpegdecoder] found audio stream!
+14:10:14 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:10:14 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:10:43 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:10:43 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:10:43 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:12:07 [info] [ffmpegdecoder] finished decoding.
+14:12:09 [info] [GaplessTransport] stop
+14:13:04 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:13:04 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:13:04 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:15:43 [info] [ffmpegdecoder] finished decoding.
+14:15:46 [info] [GaplessTransport] stop
+14:17:05 [info] [GaplessTransport] starting track at /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:17:05 [info] [Player] new instance created
+14:17:05 [info] [GaplessTransport] stop
+14:17:05 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:17:05 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:17:05 [info] [ffmpegdecoder] parsing data stream...
+14:17:05 [info] [ffmpegdecoder] found audio stream!
+14:17:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:17:05 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:17:05 [info] [Player] new instance created
+14:17:05 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:17:05 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:17:05 [info] [ffmpegdecoder] parsing data stream...
+14:17:05 [info] [ffmpegdecoder] found audio stream!
+14:17:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:17:05 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:17:34 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:17:34 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:17:34 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:18:59 [info] [ffmpegdecoder] finished decoding.
+14:19:01 [info] [GaplessTransport] stop
+14:19:55 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:19:55 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:19:55 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:22:35 [info] [ffmpegdecoder] finished decoding.
+14:22:37 [info] [GaplessTransport] stop
+14:22:49 [info] [GaplessTransport] starting track at /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:22:49 [info] [Player] new instance created
+14:22:49 [info] [GaplessTransport] stop
+14:22:49 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:22:49 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:22:49 [info] [ffmpegdecoder] parsing data stream...
+14:22:49 [info] [ffmpegdecoder] found audio stream!
+14:22:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:22:49 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:22:49 [info] [Player] new instance created
+14:22:49 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:22:49 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:22:49 [info] [ffmpegdecoder] parsing data stream...
+14:22:49 [info] [ffmpegdecoder] found audio stream!
+14:22:49 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:22:49 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:23:18 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:23:18 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:23:18 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:24:43 [info] [ffmpegdecoder] finished decoding.
+14:24:45 [info] [GaplessTransport] stop
+14:25:39 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:25:39 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:25:39 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:28:19 [info] [ffmpegdecoder] finished decoding.
+14:28:21 [info] [GaplessTransport] stop
+14:29:02 [info] [GaplessTransport] starting track at /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:29:02 [info] [Player] new instance created
+14:29:02 [info] [GaplessTransport] stop
+14:29:02 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:29:02 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:29:02 [info] [ffmpegdecoder] parsing data stream...
+14:29:02 [info] [ffmpegdecoder] found audio stream!
+14:29:02 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:29:02 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 1 Behelit.mp3
+14:29:03 [info] [Player] new instance created
+14:29:03 [info] [Stream] opening /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:29:03 [info] [LocalFileStream] opening file: /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:29:03 [info] [ffmpegdecoder] parsing data stream...
+14:29:03 [info] [ffmpegdecoder] found audio stream!
+14:29:03 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+14:29:03 [info] [Streams] found a decoder for /home/muslimtechninja/Music/Berserk soundtrack - 4 Gatsu.mp3
+14:29:32 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:29:32 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:29:32 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:30:56 [info] [ffmpegdecoder] finished decoding.
+14:30:58 [info] [GaplessTransport] stop
+14:31:52 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+14:31:52 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+14:31:52 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+14:34:32 [info] [ffmpegdecoder] finished decoding.
+14:34:35 [info] [GaplessTransport] stop
+14:39:21 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+14:39:21 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+14:39:21 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+14:39:21 [info] [GaplessTransport] stop

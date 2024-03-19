@@ -10,8 +10,12 @@ super + Return
 super + @space
 	dmenu_run
 
+# screenshots
+Print
+	scrot ~/Images/Screenshots/%b%d::%H%M%S.png
+
 # make sxhkd reload its configuration files:
-super + Escape
+super + e
 	pkill -USR1 -x sxhkd
 
 #
